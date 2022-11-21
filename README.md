@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eldringrg
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in App/Web Development
+- 🌱 I’m currently learning Flutter/JavaScript.
 - 💞️ I’m looking to collaborate on internships
 - 📫 How to reach me eldrintamu3@gmail.com
 
