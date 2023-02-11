@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldringrg&label=Profile%20views&color=0e75b6&style=flat" alt="eldringrg" /> </p>
 
-- 🌱 I’m currently learning **Flutter/JavaScript.**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with **internships**
 
